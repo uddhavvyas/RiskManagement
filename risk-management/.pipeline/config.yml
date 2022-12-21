@@ -1,5 +1,6 @@
 ---
 general:
+  pipeline: "sap-cloud-sdk"
   buildTool: "mta"
 service:
   buildToolVersion: "MBTJ11N14"
